@@ -1,5 +1,5 @@
 <h3 align="left">👋🏽 Hi, my name is <b>Jose</b>!</h3>
-<p>I’m a self-taught <b>frontend developer</b> based in Santiago, Chile 🇨🇱</p>
+<p>I’m a self-taught <b>Product developer</b> based in Santiago, Chile 🇨🇱</p>
 
 <!-- skillz -->
 
