@@ -1,61 +1,41 @@
-<h3 align="left">👋🏽 Hi, my name is <b>Jose</b>!</h3>
-<p>I’m a self-taught <b>Product developer</b> based in Santiago, Chile 🇨🇱</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jose&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Product%20Developer%20%C2%B7%20Santiago%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1&descAlignY=55&descSize=18" width="100%" />
 
-<!-- skillz -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7A527&center=true&vCenter=true&width=500&lines=Self-taught+Product+Developer;Building+things+for+the+web;CSS+%2F+JS+%2F+React+%2F+TypeScript" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Some stuff I use</h3>
-<p align="left"> <a style="display: inline-block;" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a style="display: inline-block;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a style="display: inline-block;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a> 
-    <a style="display: inline-block;" href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> <a style="display: inline-block;" href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a style="display: inline-block;" href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a> <a style="display: inline-block;" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" /> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a>
-    </p>
+<br/>
 
-<!-- social media -->
+### 🛠️ Some stuff I use
 
-<p>
-    <a style="display: inline-block;" href="https://www.linkedin.com/in/avilajose" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30" />
-    </a>
-    <a style="display: inline-block;" href="https://www.dribble.com/josefosaurus/">
-        <img src="https://www.svgrepo.com/show/217757/dribbble.svg" alt="dribble" width="30" height="30" />
-    </a>
-     <a style="display: inline-block;" href="https://www.twitter.com/josefosaurus">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30" />
-    </a>
-     <a style="display: inline-block;" href="https://www.instagram.com/josefosaurus/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" width="30" height="30" />
-    </a>
-    
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,nodejs,python,mongodb,mysql,chromadb&theme=dark" />
+</div>
 
+<br/>
 
-<!-- profileview -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josefosaurus&label=Profile%20views&color=0e75b6&style=flat"
-    alt="josefosaurus" /> </p>
+### 📊 Stats
 
-<!--
-**josefosaurus/josefosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=josefosaurus&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefosaurus&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Find me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/avilajose"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.dribbble.com/josefosaurus/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;
+  <a href="https://www.twitter.com/josefosaurus"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/josefosaurus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=josefosaurus&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
